@@ -1,0 +1,6 @@
+<meta>
+    <script src="backfire_client.lua" type="client" cache="false" validate="true"/>
+    <script src="backfire_server.lua" type="server" cache="false" validate="true"/>
+    <file src="backfire2.wav"/>
+    <file src="backfire_settings.xml"/>
+</meta>
